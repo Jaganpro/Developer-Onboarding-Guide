@@ -19,7 +19,14 @@
   ![image](https://user-images.githubusercontent.com/2145211/39137921-ca7de546-46ec-11e8-87de-d0ca74b995d2.png)
 
 ### STEP 4: Install Mavensmate Plugin (For Non-SFDX Projects)
-  * Search for "Mavensmate" and install the plugin
+  * Add VS Code to Path (Run Shell Command : Install code in PATH from command palette)
+  * Install MavensMate Desktop Beta.6 (must be running in order for MavensMate for VS Code to function)
+    * Install Link: https://github.com/joeferraro/MavensMate-Desktop/releases/tag/v0.0.11-beta.6
+    * Once Installed, configure your workspace
+      * "mm_workspace" : "/Users/YourUserName/Desktop/my-cool-project-name"
+  * Search for "Mavensmate" and install the plugin in Visual Studio Code
+  
+  ![image](https://user-images.githubusercontent.com/2145211/39139406-d4f07144-46ef-11e8-86dd-1ab09a0bfba2.png)
   
 ### STEP 4: Install Node and NPM
   * Install NODE and NPM for your mac and Windows
