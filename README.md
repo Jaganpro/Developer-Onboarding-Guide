@@ -32,14 +32,22 @@
   * Install NODE and NPM for your mac and Windows
   * Go to https://nodejs.org/en/ and click download. Please download the latest stable release.
   
+  ![image](https://user-images.githubusercontent.com/2145211/39145523-fbc9ffbc-4701-11e8-9ec3-e2270a4fec27.png)
+  
   * Once Installed, you should be able to see the following Messages
+  
+  ![image](https://user-images.githubusercontent.com/2145211/39145533-05808fe4-4702-11e8-8349-15880a0506bb.png)
   
 ### STEP 5: Install Salesforce CLI 
   * Go to https://developer.salesforce.com/tools/sfdxcli to Install Salesforce CLI
+  
+  ![image](https://user-images.githubusercontent.com/2145211/39145544-0e9313cc-4702-11e8-9863-6c9da9b2abcc.png)
 
 ### STEP 6: Tools Verification
   * Once Installed, Verify that you have NODE, NPM and Salesforce CLI Installed Correctly.
   
+  ![image](https://user-images.githubusercontent.com/2145211/39145552-1827ca54-4702-11e8-83c9-61e5730708e8.png)
+
 ### STEP 7: Enable Developer Hub (One-Time Setup Only - By Admin) (Optional)
   * Enable Developer Hub in Production
   * Once Enabled, Developers needs to be a user in Production to create Scratch Orgs
@@ -47,11 +55,15 @@
     * Scratch Org Info
     * Active Scratch Org
     * NameSpace Registry
+    
+  ![image](https://user-images.githubusercontent.com/2145211/39145567-21b6dc7c-4702-11e8-9268-a999a0ef4b9b.png)
 
 ### Step 8: Configure Git (Optional)
   * Make sure we configure git credentials in our System
     * Setup UserName
     * Setup Email Addresses
+    
+  ![image](https://user-images.githubusercontent.com/2145211/39145646-65ea7ee4-4702-11e8-8774-1011df8d7d49.png)
   
 ## Daily Cadence for Developers
 
