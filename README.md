@@ -10,9 +10,16 @@
 ### STEP 2: Search Extensions:MarketPlace for Salesforce Plugins
   * Once installed, Open Visual Studio code and navigate to "Extensions: MarketPlace" and search for "Salesforce"
   
+  ![image](https://user-images.githubusercontent.com/2145211/39138227-7cd46d46-46ed-11e8-95f2-27b564a4c790.png)
+  
 ### STEP 3: Install Salesforce Plugins
   * Install "Visual Studio Code Extension Pack for Salesforce DX"
   * Once Installed, we should be able to see the list of packages installed in Visual Studio
+  
+  ![image](https://user-images.githubusercontent.com/2145211/39137921-ca7de546-46ec-11e8-87de-d0ca74b995d2.png)
+
+### STEP 4: Install Mavensmate Plugin (For Non-SFDX Projects)
+  * Search for "Mavensmate" and install the plugin
   
 ### STEP 4: Install Node and NPM
   * Install NODE and NPM for your mac and Windows
