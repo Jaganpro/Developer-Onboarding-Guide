@@ -58,7 +58,7 @@
     
   ![image](https://user-images.githubusercontent.com/2145211/39145567-21b6dc7c-4702-11e8-9268-a999a0ef4b9b.png)
 
-### Step 8: Configure Git (Optional)
+### Step 8: Configure Git
   * Make sure we configure git credentials in our System
     * Setup UserName
     * Setup Email Addresses
@@ -66,6 +66,7 @@
   ![image](https://user-images.githubusercontent.com/2145211/39145646-65ea7ee4-4702-11e8-8774-1011df8d7d49.png)
   
 ## Daily Cadence for Developers
+  * <More Updates to follow>
 
 
   
