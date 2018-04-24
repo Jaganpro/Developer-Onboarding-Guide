@@ -28,7 +28,7 @@
   
   ![image](https://user-images.githubusercontent.com/2145211/39139406-d4f07144-46ef-11e8-86dd-1ab09a0bfba2.png)
   
-### STEP 4: Install Node and NPM
+### STEP 5: Install Node and NPM
   * Install NODE and NPM for your mac and Windows
   * Go to https://nodejs.org/en/ and click download. Please download the latest stable release.
   
@@ -38,17 +38,17 @@
   
   ![image](https://user-images.githubusercontent.com/2145211/39145533-05808fe4-4702-11e8-8349-15880a0506bb.png)
   
-### STEP 5: Install Salesforce CLI 
+### STEP 6: Install Salesforce CLI 
   * Go to https://developer.salesforce.com/tools/sfdxcli to Install Salesforce CLI
   
   ![image](https://user-images.githubusercontent.com/2145211/39145544-0e9313cc-4702-11e8-9863-6c9da9b2abcc.png)
 
-### STEP 6: Tools Verification
+### STEP 7: Tools Verification
   * Once Installed, Verify that you have NODE, NPM and Salesforce CLI Installed Correctly.
   
   ![image](https://user-images.githubusercontent.com/2145211/39145552-1827ca54-4702-11e8-83c9-61e5730708e8.png)
 
-### STEP 7: Enable Developer Hub (One-Time Setup Only - By Admin) (Optional)
+### STEP 8: Enable Developer Hub (One-Time Setup Only - By Admin) (Optional)
   * Enable Developer Hub in Production
   * Once Enabled, Developers needs to be a user in Production to create Scratch Orgs
   * The following Permission-Set features needs to be assigned for the users in Production:
@@ -58,7 +58,7 @@
     
   ![image](https://user-images.githubusercontent.com/2145211/39145567-21b6dc7c-4702-11e8-9268-a999a0ef4b9b.png)
 
-### Step 8: Configure Git
+### Step 9: Configure Git
   * Make sure we configure git credentials in our System
     * Setup UserName
     * Setup Email Addresses
