@@ -64,9 +64,3 @@
     * Setup Email Addresses
     
   ![image](https://user-images.githubusercontent.com/2145211/39145646-65ea7ee4-4702-11e8-8774-1011df8d7d49.png)
-  
-## Daily Cadence for Developers
-  * <More Updates to follow>
-
-
-  
