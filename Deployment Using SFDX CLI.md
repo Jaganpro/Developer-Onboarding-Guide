@@ -27,7 +27,7 @@
     * -d --> Destination Directory
     
 ### Deploy to Destination Org
-  * `sfdx force:mdapi:deploy -u UAT -d ./Deploy -l NoTestRun`
+  * `sfdx force:mdapi:deploy -u UAT -d ./Deploy -l NoTestRun -c`
     * -u --> Org Name
     * -d --> Root of directory tree of files to deploy 
     * -c --> Check Only (Use this flag to Validate the deployment) 
