@@ -42,4 +42,34 @@ If we are starting a new Project, then the recommendation is to use the "Scratch
 
 ![image](https://user-images.githubusercontent.com/2145211/48174775-5a8f8000-e2d7-11e8-9212-ff90cf564151.png)
 
+### Winter '19 Salesforce Source Commands (Retrieve, Deploy and Delete)
+
+### Retrieve Commands
+
+```
+sfdx force:source:retrieve -x path/to/package.xml
+sfdx force:source:retrieve -m CustomObject,ApexClass
+```
+
+### Deploy Commands
+
+```
+sfdx force:source:deploy -x path/to/package.xml
+sfdx force:source:deploy -m ApexClass:MyApexClass
+```
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
